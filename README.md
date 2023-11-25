@@ -1,6 +1,5 @@
 # Password Generator App
 
-![Password Generator App](./screenshots/app-screenshot.png)
 
 ## Overview
 
@@ -14,10 +13,7 @@ Welcome to the Password Generator App, a sleek and powerful tool developed using
 
 - **Quick and Easy:** Generate secure passwords with just a tap, eliminating the hassle of manual input.
 
-## Screenshots
-
-![Screenshot 1]<div align="center"><img src="https://res.cloudinary.com/dzxorfube/image/upload/v1700238730/samples/website%20screenshot/lfwqmprjhkpfsnz70dyi.png" alt="Desktop View" width="750" height="400"></div>
-
-![Screenshot 2](./screenshots/screenshot-2.png)
+## Screenshot
+<div align="center"><img src="https://res.cloudinary.com/dzxorfube/image/upload/v1700894205/samples/website%20screenshot/passgen_iksv57.png" alt="Desktop View" width="750" height="400"></div>
 
 =
