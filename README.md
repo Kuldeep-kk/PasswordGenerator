@@ -16,7 +16,8 @@ Welcome to the Password Generator App, a sleek and powerful tool developed using
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot-1.png)
+![Screenshot 1]<div align="center"><img src="https://res.cloudinary.com/dzxorfube/image/upload/v1700238730/samples/website%20screenshot/lfwqmprjhkpfsnz70dyi.png" alt="Desktop View" width="750" height="400"></div>
+
 ![Screenshot 2](./screenshots/screenshot-2.png)
 
 =
